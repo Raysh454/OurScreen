@@ -6,7 +6,7 @@ This program takes a snapshot of the entire screen when run and sends it over to
 
 ### Usage
 
-- Clone the repository
-- Open with Visual Studio
-- Enter the webhook path (First line in main function) of your own webhook
-- Compile and Run
+1. Clone the repository
+2. Open with Visual Studio
+3. Enter the webhook path (First line in main function) of your own webhook
+4. Compile and Run
